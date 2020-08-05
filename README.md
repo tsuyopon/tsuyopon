@@ -6,7 +6,7 @@ I'm software engineer
 
 - 🌱 I’m currently learning .Linux Operating System, Docker, HTTP/2 and TLS in depth.
 
-- [gthub stars](https://github-readme-stats.vercel.app/api?username=tsuyopon&show_icons=true&theme=cobalt])
+- ![gthub stars](https://github-readme-stats.vercel.app/api?username=tsuyopon&show_icons=true&theme=cobalt])
 
 ### 🔍 Interest
 * Linux Operating System
