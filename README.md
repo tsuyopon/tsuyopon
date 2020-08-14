@@ -8,6 +8,8 @@ I'm software engineer
 
 - ![gthub stars](https://github-readme-stats.vercel.app/api?username=tsuyopon&show_icons=true&theme=cobalt])
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsuyopon&hide=javascript,html,css)
+
 ### 🔍 Interest
 * Linux Operating System
 * TLS
