@@ -2,7 +2,7 @@
 
 I'm software engineer 
 
-- 🔭 I’m currently working on .Yahoo Japan Corporation at Software engineer.
+- 🔭 I’m currently working on LY Corporation at Software engineer.
 
 - 🌱 I’m currently learning .Linux Operating System, Docker, HTTP/2 and TLS in depth.
 
